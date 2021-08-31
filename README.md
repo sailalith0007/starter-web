@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
+the purpose is something i dont know for this project.
+
 ## Deployment
 
 ## Hoe To Contribute

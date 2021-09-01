@@ -14,3 +14,5 @@ the purpose is something i dont know for this project.
 This is a deployement
 
 ## Hoe To Contribute
+
+copyright message 

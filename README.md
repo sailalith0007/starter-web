@@ -13,6 +13,8 @@ the purpose is something i dont know for this project.
 ## Deployment
 This is a deployement
 
-## Hoe To Contribute
+## How To Contribute
+
+Get fork
 
 copyright message 

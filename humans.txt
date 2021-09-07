@@ -6,7 +6,7 @@ lalith lalith@gmail
 
 # THANKS
 
-    <name>
+ Thanks to asll
 
 # TECHNOLOGY COLOPHON
 

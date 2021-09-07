@@ -18,7 +18,11 @@ adding changes before rebase conflits
 	<main class="container">
 	<!-- Content Goes Here -->
 		<p>
-			Just some content
+<<<<<<< HEAD
+			Some comment is not required.
+=======
+			Just some content.askjhffuiagfsabfua
+>>>>>>> 8ff8096 (fb adding some troubler to simple.html)
 		</p>
 	</main>
 	<footer class="container">
